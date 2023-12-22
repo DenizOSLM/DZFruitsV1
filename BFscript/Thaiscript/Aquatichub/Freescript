@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DZFruitsoof/DZFruitsoof/a9ba9fd8cf0c503a753af654feae0dc1f9016c92/Thai.lua'))()
